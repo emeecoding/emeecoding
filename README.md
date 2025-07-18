@@ -1,3 +1,5 @@
+# Olá! Eu sou o Emerson Santos 🖐️
+
 🎓 Estudante de Engenharia de Software (3º Período)  
 👨🏿‍💻 Desenvolvedor em formação, apaixonado por tecnologia e aprendizado contínuo  
 🎯 Focado em Front-end | Atualmente estudando **React.js**  
