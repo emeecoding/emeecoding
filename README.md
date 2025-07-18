@@ -1,9 +1,25 @@
-### Olá! Eu sou o Emerson Santos 🖐️
+🎓 Estudante de Engenharia de Software (3º Período)  
+👨🏿‍💻 Desenvolvedor em formação, apaixonado por tecnologia e aprendizado contínuo  
+🎯 Focado em Front-end | Atualmente estudando **React.js**  
 
-👨🏿‍💻| Estudante de Programação <br>
-🌱|  Front-end <br>
-💙| Estudando React
+---
 
+## 🚀 Tecnologias e Ferramentas
+
+- 💻 HTML | CSS | JavaScript
+- 🎨 SASS | Tailwind CSS | Bootstrap
+- ⚛️ React (em aprendizado)
+- 🧰 Git | GitHub | VS Code
+
+---
+
+## 📚 Em aprendizado
+
+- Estrutura de Dados e Algoritmos
+- Princípios de Clean Code
+- Consumo de APIs REST
+- Componentização e boas práticas com React
+  
 <div> 
   <a href="https://www.instagram.com/emecoding/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
