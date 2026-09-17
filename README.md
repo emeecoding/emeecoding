@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=140&section=header" alt="Faixa roxa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=header" alt="Faixa preta" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=650&height=70&lines=Ol%C3%A1%2C+eu+sou+Emerson+Santos!;Bem-vindo+ao+meu+perfil!" alt="Animação de texto: Olá, eu sou Emerson Santos! Bem-vindo ao meu perfil!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1500&color=000000&center=true&vCenter=true&width=650&height=70&lines=Ol%C3%A1%2C+eu+sou+Emerson+Santos!;Bem-vindo+ao+meu+perfil!" alt="Olá, eu sou Emerson Santos! Bem-vindo ao meu perfil!" />
 </p>
 
 <p align="center">
@@ -57,4 +57,4 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Faixa roxa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" alt="Faixa preta" />
