@@ -49,10 +49,10 @@
 
 <p>
   <img alt="Me contate" src="https://img.shields.io/badge/Me_contate:-000000?style=for-the-badge" />
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+  <a href="https://www.linkedin.com/in/emecoding/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-651FFF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:emersonsantosdev@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-651FFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
